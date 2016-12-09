@@ -1,0 +1,72 @@
+C:\Users\andy thompson\AppData\Local\Temporary Projects\YGSAPErrors\bin\Debug\YGSAPErrors.exe.config
+C:\Users\andy thompson\AppData\Local\Temporary Projects\YGSAPErrors\bin\Debug\YGSAPErrors.exe
+C:\Users\andy thompson\AppData\Local\Temporary Projects\YGSAPErrors\bin\Debug\YGSAPErrors.pdb
+C:\Users\andy thompson\AppData\Local\Temporary Projects\YGSAPErrors\bin\Debug\YGSAPErrors.xml
+C:\Users\andy thompson\AppData\Local\Temporary Projects\YGSAPErrors\obj\x86\Debug\YGSAPErrors.Form1.resources
+C:\Users\andy thompson\AppData\Local\Temporary Projects\YGSAPErrors\obj\x86\Debug\YGSAPErrors.Resources.resources
+C:\Users\andy thompson\AppData\Local\Temporary Projects\YGSAPErrors\obj\x86\Debug\YGSAPErrors.vbproj.GenerateResource.Cache
+C:\Users\andy thompson\AppData\Local\Temporary Projects\YGSAPErrors\obj\x86\Debug\YGSAPErrors.exe
+C:\Users\andy thompson\AppData\Local\Temporary Projects\YGSAPErrors\obj\x86\Debug\YGSAPErrors.xml
+C:\Users\andy thompson\AppData\Local\Temporary Projects\YGSAPErrors\obj\x86\Debug\YGSAPErrors.pdb
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.exe.config
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.exe
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.pdb
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.xml
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.Resources.resources
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.vbproj.GenerateResource.Cache
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.exe
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.xml
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.pdb
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.SAPErrors.resources
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.XML.resources
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.AS400Transaction.resources
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.vbproj.ResolveComReference.cache
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.Notes.resources
+C:\Users\andy thompson\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.EditXMLvb.resources
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.exe.config
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.vbproj.ResolveComReference.cache
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.exe
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.xml
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.pdb
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.exe
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.pdb
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.xml
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.AS400Transaction.resources
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.EditXMLvb.resources
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.Notes.resources
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.SAPErrors.resources
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.XML.resources
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.Resources.resources
+E:\Documents\Visual Studio 2010\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.vbproj.GenerateResource.Cache
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.exe.config
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.vbproj.ResolveComReference.cache
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.exe
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.xml
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.pdb
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.exe
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.pdb
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.xml
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.AS400Transaction.resources
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.EditXMLvb.resources
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.Notes.resources
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.SAPErrors.resources
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.XML.resources
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.Resources.resources
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.exe.config
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.exe
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.pdb
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\bin\Debug\YGSAPErrors.xml
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.vbproj.ResolveComReference.cache
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.AS400Transaction.resources
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.EditXMLvb.resources
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.Notes.resources
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.SAPErrors.resources
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.XML.resources
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.Resources.resources
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.exe
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.xml
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.pdb
+E:\Documents\Visual Studio 2013\Projects\SAP\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.vbprojResolveAssemblyReference.cache
+E:\Local Projects\YGSAPErrors_Source\YGSAPErrors\YGSAPErrors\obj\x86\Debug\YGSAPErrors.vbprojResolveAssemblyReference.cache

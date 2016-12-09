@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GRRSAnal
+</name>
+</assembly>
+<members>
+<member name="P:GRRSAnal.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:GRRSAnal.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:GRRSAnal.My.Resources.Resources.IEXMLDefaultStyle">
+	<summary>
+  Looks up a localized string similar to &lt;!--
+ |
+ | XSLT REC Compliant Version of IE5 Default Stylesheet
+ |
+ | Original version by Jonathan Marsh (jmarsh@microsoft.com)
+ | http://msdn.microsoft.com/xml/samples/defaultss/defaultss.xsl
+ |
+ | Conversion to XSLT 1.0 REC Syntax by Steve Muench (smuench@oracle.com)
+ |
+ +--&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+   &lt;xsl:output indent="no" method="html"/&gt;
+
+   &lt;xsl:template match="/"&gt;
+      &lt;HTML&gt;
+         &lt;HEAD&gt;
+            &lt;SCRIPT&gt;
+               [rest of string was truncated]";.
+</summary>
+</member><member name="T:GRRSAnal.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
